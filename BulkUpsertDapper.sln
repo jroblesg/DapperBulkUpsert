@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulkUpsertDapper", "BulkUpsertDapper.csproj", "{FF5B72FC-D392-4D1C-A23F-31C2322F2F61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF5B72FC-D392-4D1C-A23F-31C2322F2F61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF5B72FC-D392-4D1C-A23F-31C2322F2F61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF5B72FC-D392-4D1C-A23F-31C2322F2F61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF5B72FC-D392-4D1C-A23F-31C2322F2F61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BA94EC6-7BCB-477F-AF3F-9A2278963600}
+	EndGlobalSection
+EndGlobal
